@@ -1,0 +1,13 @@
+{
+  "name": "angulartics",
+  "repo": "ndnhat/angulartics",
+  "description": "Componentized angulartics",
+  "version": "0.15.18",
+  "keywords": ["angulartics, component"],
+  "dependencies": {},
+  "scripts": [
+    "src/angulartics.js",
+    "src/angulartics-ga.js"
+  ],
+  "license": "MIT"
+}

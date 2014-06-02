@@ -180,3 +180,5 @@ angular.module('angulartics', [])
   };
 }]);
 })(angular);
+
+module.exports = window.angulartics;
