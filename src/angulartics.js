@@ -181,4 +181,5 @@ angular.module('angulartics', [])
 }]);
 })(angular);
 
-module.exports = window.angulartics;
+exports = module.exports = angular.module('angulartics');
+exports.name = 'angulartics';
