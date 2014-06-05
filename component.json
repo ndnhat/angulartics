@@ -6,8 +6,7 @@
   "keywords": ["angulartics, component"],
   "dependencies": {},
   "scripts": [
-    "src/angulartics.js",
-    "src/angulartics-ga.js"
+    "src/angulartics.js"
   ],
   "license": "MIT"
 }
