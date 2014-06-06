@@ -59,6 +59,3 @@ angular.module('angulartics.google.analytics', ['angulartics'])
 
 }]);
 })(angular);
-
-exports = module.exports = angular.module('angulartics.google.analytics');
-exports.name = 'angulartics.google.analytics';
